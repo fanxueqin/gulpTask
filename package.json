@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-asset-rev": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-changed": "*",
+    "gulp-concat": "*",
+    "gulp-csslint": "*",
+    "gulp-csso": "*",
+    "gulp-htmlmin": "*",
+    "gulp-jshint": "*",
+    "gulp-load-plugins": "*",
+    "gulp-rename": "*",
+    "gulp-replace": "*",
+    "gulp-rev": "^7.1.2",
+    "gulp-rev-collector": "^1.0.5",
+    "gulp-sass": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "jshint": "*",
+    "minimist": "*",
+    "run-sequence": "*",
+    "wrench": "*"
+  },
+  "engines": {
+    "node": ">=4.0"
+  }
+}
